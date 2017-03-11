@@ -1,0 +1,58 @@
+/* index */
+.sie_nav{
+  padding: 0px 15px 0px 0px;
+}
+
+.main{
+  background-image: url(./assets/img/bg.png);
+}
+
+#search-dashboard {
+  margin-top: 0px;
+}
+
+#table_topic th, #table_topic td {
+  padding: 15px;
+}
+
+.navbar-form {
+  border-color: none;
+}
+
+.role {
+  margin-top: 0;
+}
+
+.date_add_cv {
+  float: right;
+}
+
+.cv_img{
+  max-width: 100%;
+  max-height: 100%;
+  padding-bottom: 25px; 
+}
+.upload_picture_btn{
+  display: block;
+  margin: 0 auto;
+}
+
+.category_row{
+  margin-top: 10px;
+}
+
+.category{
+  margin-top: 5px;
+}
+
+.sort_by_row{
+  margin-top: 10px;
+}
+
+.sort_by{
+  margin-top: 5px;
+}
+
+.time{
+  color: #8D99A8;
+}
